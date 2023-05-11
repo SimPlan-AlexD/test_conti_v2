@@ -1,0 +1,13 @@
+InternalClassType: Toolbar
+ChangePathCtrl:
+ConstructorCtrl:
+DestructorCtrl:
+Label: "Mobile Units"
+MoveToFolderCtrl:
+Name: Toolbar
+UUID: 09eba8f2-92c1-4379-81da-f7d23490c260
+Visible: true
+$Objects:
+- 2d6c8363-f96b-4a55-88cf-279876ac3415
+- 24db9614-2034-4f42-87ca-c0ca6c1ab4b2
+- 7e0c997c-9b21-4cdc-bada-1b1a0d938fe9

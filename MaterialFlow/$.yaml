@@ -1,0 +1,37 @@
+InternalClassType: Folder
+ChangePathCtrl:
+Coordinate3D: [2,-1,0.05]
+DestructorCtrl:
+MoveToFolderCtrl:
+Name: MaterialFlow
+PermitDeleteCtrl:
+RenameCtrl:
+UUID: 309013c6-8111-446e-b92e-14341d0c1c69
+3D:
+ BackgroundColor: -1
+$Nodes:
+- 94511b52-fdb2-42dd-8617-845f6d93464c
+- 6cf0414d-bdeb-4aef-baa1-d960e1214f05
+- aaf2d9cc-dc2a-45c8-a1fe-8d7d37f8c099
+- 8eb94408-bf10-4405-b528-af5e8218456b
+- 623cae53-a2dd-4873-9fb9-16cbc81131b8
+- 133721e9-24fd-4556-aaa9-4278f3eb7b5a
+- a7b36cca-3740-407b-8c58-5cce8217f91d
+- ae1a8c5d-4ecf-4ccc-a170-3f418adfc4ba
+- 0cebcf16-4b11-4513-b5c9-83d38e14c743
+- 07d23e18-f8ec-4252-8020-54ad07f12e02
+- 5a8c1d95-ee33-4ce7-bb2f-eb87eecc9aae
+- 6577fe8a-9f74-4a2f-b0bb-6d027beb7463
+- cf51f121-da81-4f52-a8f5-606065b7033e
+- d293ff94-6f7a-46d1-80d0-cd4cc673a17f
+- 7a398074-89c0-4bda-90a5-5ee67a6b8844
+- 27d48a7c-094d-4808-addf-29da9c955191
+- 60bcd244-a227-43f9-b92a-ed4f5f1a23ab
+- da356009-8309-4d58-b944-13315d3e417a
+- a225c255-eab0-4b4c-8435-fc386dda49cc
+- 24903e88-7fbb-4f89-bd8d-81508ee6a4da
+- d4a47f6a-e1b7-499d-93c9-5f4772404bab
+- b97621bd-defe-4493-a431-5da32896c2cb
+- 86bc55cc-5e33-45ec-8526-2d4be4050fa0
+- 6ce119a3-1752-4dca-9c13-8652b91e78ff
+- ca1c2ad2-8ade-4edd-bdd1-3fc54636f044

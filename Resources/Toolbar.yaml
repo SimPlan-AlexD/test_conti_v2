@@ -1,0 +1,21 @@
+InternalClassType: Toolbar
+ChangePathCtrl:
+ConstructorCtrl:
+DestructorCtrl:
+Label: "Resources"
+MoveToFolderCtrl:
+Name: Toolbar
+UUID: 15069dd1-1bde-42ea-84f8-23abb8caca96
+Visible: true
+$Objects:
+- 94511b52-fdb2-42dd-8617-845f6d93464c
+- 3b10f798-e3f6-42f3-8aab-f4cc47d6d9b5
+- dbac799b-af8e-4b2b-a39a-f90477f94938
+- 6a7e7b0c-86a0-4f9c-9267-d1c697248a95
+- f59fc98c-916b-407a-8afd-4b674b0d6fe0
+- a70011fb-ee9f-4b3a-9391-2906ebddb132
+- 4f9b2e60-3d04-4384-b2ba-7c4399efecf3
+- 278fc921-f572-4c12-8119-a23d9be5a49d
+- acba36bd-3694-40ce-8b0b-54afd54ebed6
+- cd0ab532-15c4-4851-839b-a9cb683411be
+- c8280b1c-3193-4aa3-874a-bda753bfdcf8
